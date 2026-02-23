@@ -9,7 +9,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Udit Panchal</h1>
-<h3 align="center">A second year BCA student</h3>
+<h3 align="center">A final year BCA student</h3>
 
 - 🔭 I’m currently working on **Java Script**
 
